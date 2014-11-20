@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/curationexperts/blacklight_folders.git
-  revision: 7f39297fb813ef406e402b6ab4cb5858ea691edb
+  revision: 186eb9f336c350ef674b2893f8ce39b8668fe14b
   branch: master
   specs:
     blacklight_folders (0.0.1)
