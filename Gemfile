@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'blacklight', github: 'projectblacklight/blacklight', branch: 'master'
 gem 'blacklight_folders', github: 'curationexperts/blacklight_folders', branch: 'master'
+gem 'nprogress-rails'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.7'

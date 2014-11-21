@@ -13,7 +13,9 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//
+//= require nprogress
+//= require nprogress-turbolinks
+//= require nprogress-ajax//
 // Required by Blacklight
 //= require blacklight/blacklight
 //
